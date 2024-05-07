@@ -35,4 +35,3 @@ Screens are responsible for rendering the user interface of different parts of t
 
 widgets
 Widgets are reusable components that encapsulate UI elements and behavior, making it easier to build and maintain the app's interface.
-
